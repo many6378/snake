@@ -481,8 +481,8 @@
             <h1>THE ULTIMATE SNAKE ADVENTURE</h1>
             <p>Experience the evolution of the classic snake game with stunning graphics, multiple characters, diverse maps, and intense multiplayer battles!</p>
             <div class="cta-buttons">
-                <a href=/snake bite/"#download" class="btn btn-primary">PLAY NOW</snake bite/a>
-                <a href=/snake bite/"#features" class="btn btn-secondary">LEARN MORE</character ,maps/a>
+                <a href=/snake/"#download" class="btn btn-primary">PLAY NOW</a>
+                <a href=/"#features" class="btn btn-secondary">LEARN MORE</a>
             </div>
         </div>
     </section>
